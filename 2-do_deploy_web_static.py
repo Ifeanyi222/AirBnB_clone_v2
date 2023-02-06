@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/python3
 """Compress web static package
 """
